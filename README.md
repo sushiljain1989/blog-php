@@ -22,3 +22,4 @@ Features:
  Things under progress :
  
     1. Comments section on blog
+    2. Test cases
