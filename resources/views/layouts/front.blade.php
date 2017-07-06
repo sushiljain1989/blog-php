@@ -63,8 +63,9 @@
                     <li><a href="{{ route('home') }}">Dashboard</a></li>
                     @if(session('is_admin') == 1)
                       <li><a href="/create-user">Create User</a></li>
+                      <li><a href="/bloggers-list">Manager Blogger(s)</a></li>
                     @endif
-
+                    <li><a href="/blog/create-blog">Create Blog</a></li>
                     <li><a href="{{ route('change-password') }}">Change Password</a></li>
                     <li>
                         <a href="{{ url('/logout') }}"
