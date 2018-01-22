@@ -23,3 +23,5 @@ Features:
  
     1. Comments section on blog
     2. Test cases
+
+Warning/Note: This is just for my own educational purpose. If you're using or planning to use it then do it at your own risk.
